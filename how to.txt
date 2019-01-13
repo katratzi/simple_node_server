@@ -1,0 +1,8 @@
+to run server... cd to directory and run
+node server.js
+
+then goto 
+http://localhost:3000/
+
+for setting up the package.json, run 
+npm init
